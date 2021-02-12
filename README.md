@@ -12,10 +12,10 @@
  
  For Webshops:
  
- [Cocart Lite](https://de.wordpress.org/plugins/cart-rest-api-for-woocommerce)
- [Cocart Pro](https://cocart.xyz/my-account)
- [Germanized for Woocommerce](https://de.wordpress.org/plugins/woocommerce-germanized)
- [Webhikers Headless Woo](https://github.com/Webhikers/wp-headless)
- [Woocommerce](https://de.wordpress.org/plugins/woocommerce)
+ - [Cocart Lite](https://de.wordpress.org/plugins/cart-rest-api-for-woocommerce)
+ - [Cocart Pro](https://cocart.xyz/my-account)
+ - [Germanized for Woocommerce](https://de.wordpress.org/plugins/woocommerce-germanized)
+ - [Webhikers Headless Woo](https://github.com/Webhikers/wp-headless)
+ - [Woocommerce](https://de.wordpress.org/plugins/woocommerce)
  
 3. Prepare a file for all freelancers with the [following project-related data](https://github.com/Webhikers-Docs/welcome#product):
