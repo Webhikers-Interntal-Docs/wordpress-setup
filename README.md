@@ -19,3 +19,5 @@
  - [Woocommerce](https://de.wordpress.org/plugins/woocommerce)
  
 3. Prepare a file for all freelancers with the [following project-related data](https://github.com/Webhikers-Docs/welcome#product):
+4. Setup Cookie consent
+5. Add cart_key and cart_items cookie name to the list of strictly neccessary cookies in cookie script
