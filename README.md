@@ -17,6 +17,9 @@
  - [Germanized for Woocommerce](https://de.wordpress.org/plugins/woocommerce-germanized)
  - [Webhikers Headless Woo](https://github.com/Webhikers/wp-headless)
  - [Woocommerce](https://de.wordpress.org/plugins/woocommerce)
+
+ For Static Sites:
+ - [Webhikers Static](https://github.com/Webhikers/wp-webhikers-static)
  
 3. Prepare a file for all freelancers with the [following project-related data](https://github.com/Webhikers-Docs/welcome#product):
 4. Setup Cookie consent
