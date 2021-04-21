@@ -9,6 +9,8 @@
  - [SVG Support](https://de.wordpress.org/plugins/svg-support)
  - [YOAST](https://de.wordpress.org/plugins/wordpress-seo)
  - [WP Rest Yoast Meta](https://de.wordpress.org/plugins/wp-rest-yoast-meta)
+ - [My Private Site](https://de.wordpress.org/plugins/jonradio-private-site)
+ - [Webhikers Canonical](https://github.com/Webhikers/wp-webhikers-canonical)
  
  For Webshops:
  
